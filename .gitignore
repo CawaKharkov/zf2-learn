@@ -4,4 +4,6 @@ README.txt
 demos/
 extras/documentation
 /nbproject/private/
+/nbproject/
+nbproject
 /lesson0/vendor
